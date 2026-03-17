@@ -1,4 +1,4 @@
-
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=daniiIkvyat&color=bc2e2a&label=bats&style=plastic&abbreviated=true"/> </p>
 
 
 > _ _ _ _ _ _ _
