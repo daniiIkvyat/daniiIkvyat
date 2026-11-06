@@ -7,10 +7,12 @@
 <br>
 <p align="center"> <mark> <strong>Daniil Vyacheslavovich Kvyat<strong></strong> </mark>
 <p align="center"> <small> f̲a̲v̲o̲r̲i̲t̲e̲ ̲+̲ ̲s̲e̲l̲f̲s̲h̲i̲p̲ </small> 
-<p align="center"> <small> [selfship straw](https://daniilkvyat.straw.page)</small>
 <br>
-<br>
-★
+<p align="center"> ★
   <br>
   <br>
 ⠀⠀<p align="center"> <img width="1688" height="947" alt="image" src="https://github.com/user-attachments/assets/cce017d4-e283-48a5-bfb9-4ef54d02dfe5" />
+<br>
+  <br>
+  <br>
+  ★ <footer> <p align="center"> <h6> <a href="https://daniilkvyat.straw.page"> yumeslop straw </h6></footer>
