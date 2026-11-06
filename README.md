@@ -6,7 +6,8 @@
 <br>
 <br>
 <p align="center"> <mark> <strong>Daniil Vyacheslavovich Kvyat<strong></strong> </mark>
-<p align="center"> <small> f̲a̲v̲o̲r̲i̲t̲e̲ ̲+̲ ̲s̲e̲l̲f̲s̲h̲i̲p̲ </small>  
+<p align="center"> <small> f̲a̲v̲o̲r̲i̲t̲e̲ ̲+̲ ̲s̲e̲l̲f̲s̲h̲i̲p̲ </small> 
+<p align="center"> <small> [selfship straw](https://daniilkvyat.straw.page)</small>
 <br>
 <br>
 ★
