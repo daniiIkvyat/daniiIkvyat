@@ -1,3 +1,4 @@
+
 <br>
 <br>
 <br>
@@ -6,7 +7,7 @@
 <br>
 <br>
 <p align="center"> <mark> <strong>Daniil Vyacheslavovich Kvyat<strong></strong> </mark>
-<p align="center"> <small> f̲a̲v̲o̲r̲i̲t̲e̲ ̲+̲ ̲s̲e̲l̲f̲s̲h̲i̲p̲ </small> 
+<p align="center"> <small> f̲a̲v̲o̲r̲i̲t̲e̲ ̲<a href="https://daniilkvyat.straw.page">  +̲ ̲s̲e̲l̲f̲s̲h̲i̲p̲ </small> 
 <br>
 <p align="center"> ★
   <br>
@@ -15,4 +16,4 @@
 <br>
   <br>
   <br>
-  ★ <footer> <p align="center"> <h6> <a href="https://daniilkvyat.straw.page"> yumeslop straw </h6></footer>
+  ★ 
